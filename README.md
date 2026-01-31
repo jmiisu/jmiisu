@@ -2,6 +2,12 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmiisu)](https://github.com/anuraghazra/github-readme-stats)-->
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jmiisu&layout=compact&theme=react&line_height=40" />
 
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmi62852)](https://solved.ac/jmi62852)
+
+
 <!--
 **jmiisu/jmiisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
